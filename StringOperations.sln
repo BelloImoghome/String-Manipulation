@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringOperations", "StringOperations\StringOperations.csproj", "{F75925EC-AA6A-45BE-9C95-71E9B32E6DD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75925EC-AA6A-45BE-9C95-71E9B32E6DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75925EC-AA6A-45BE-9C95-71E9B32E6DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75925EC-AA6A-45BE-9C95-71E9B32E6DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75925EC-AA6A-45BE-9C95-71E9B32E6DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D4D1DE7-BA69-4544-973F-2485D06C7ACC}
+	EndGlobalSection
+EndGlobal
